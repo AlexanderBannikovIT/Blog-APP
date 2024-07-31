@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.InputTittle{
+    width: 200px;
+    display: block;
+    margin-bottom: 10px;
+}
+.InputText{
+    width: 200px;
+    display: block;
+    margin-bottom: 10px;
+}
+
+.button_new_post{
+    width: 207px;
+    padding: 5px;
+}
+
+.container{
+    max-width: 1200px;
+    padding-inline: 10px;
+}
+
+.post_date{
+    color: red;
+}
+
+.rows{
+    display: flex;
+    justify-content: space-between
+}
+
+
+.alert-title{
+    margin-bottom: 10px;
+    color: red;
+
+}
+
+.alert-title_hidden{
+    display: none;
+}
